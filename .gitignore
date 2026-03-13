@@ -17,6 +17,8 @@ env/
 ENV/
 *.env
 .vscode/
+.gitignore
+.github/
 
 pip-wheel-metadata/
 
