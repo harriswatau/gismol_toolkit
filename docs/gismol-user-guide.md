@@ -5,7 +5,7 @@
 **Date:** March 2026  
 **Author:** Harris Wang  
 **License:** MIT  
-**Repository:** [https://github.com/harriswatau/gismol_toolkit](https://github.com/harriswatau/gismol_toolkit)
+**Repository:** [https://github.com/hongxueharriswang/gismol_toolkit](https://github.com/harriswatau/gismol_toolkit)
 
 Welcome to **GISMOL** (General Intelligent Systems Modelling Language), a Python toolkit for building, simulating, and learning in intelligent systems using the **Constrained Object Hierarchies (COH)** 9‑tuple framework. This guide will walk you through the concepts, provide hands‑on examples, and show you how to leverage GISMOL to create your own hierarchical, constraint‑driven systems.
 

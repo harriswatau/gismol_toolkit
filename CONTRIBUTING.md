@@ -65,7 +65,7 @@ Thanks for your interest in improving the **GISMOL Toolkit**! This guide explain
 
 1.  **Clone** the repository:
     ```bash
-    git clone https://github.com/harriswatau/gismol_toolkit.git
+    git clone https://github.com/hongxueharriswang/gismol_toolkit.git
     cd gismol_toolkit
     ```
 

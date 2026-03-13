@@ -1024,4 +1024,4 @@ We hope this tutorial has empowered you to model and understand intelligent syst
 
 ---
 
-*For questions, issues, or contributions, visit [https://github.com/harriswatau/gismol_toolkit](https://github.com/harriswatau/gismol_toolkit).*
+*For questions, issues, or contributions, visit [https://github.com/hongxueharriswang/gismol_toolkit](https://github.com/harriswatau/gismol_toolkit).*
