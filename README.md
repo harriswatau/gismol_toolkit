@@ -1,22 +1,3 @@
-Great — I will now generate a **clean, production‑ready, citation‑free README.md** suitable for GitHub.
-
-Below is a polished, structured, professional README for the **GISMOL Toolkit** that reflects:
-
-*   COH/GISMOL theoretical foundations
-*   Interactive Gridworld demo with visualization
-*   Training utilities (RL/Q-learning)
-*   Toolkit structure and installation
-*   Examples and usage
-*   Contribution guidelines, roadmap, authors
-*   Git LFS awareness
-*   Best practices for repo cleanliness
-
-Everything is formatted to GitHub’s Markdown conventions.  
-You can paste this directly into your repository as `README.md`.
-
-***
-
-# ⭐ **README.md — GISMOL Toolkit**
 
 # GISMOL Toolkit
 
