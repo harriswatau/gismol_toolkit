@@ -1,4 +1,13 @@
-# Comprehensive Tutorial: Developing Intelligent Systems with COH and GISMOL
+# Developing Intelligent Systems with COH and GISMOL
+
+**Version:** 0.1.0  
+**Date:** March 2026  
+**Author:** Harris Wang  
+**Contact:** harrisw@athabascau.ca  
+**Repository:** [https://github.com/hongxueharriswang/gismol_toolkit](https://github.com/hongxueharriswang/gismol_toolkit)
+
+---
+
 
 **Welcome!** This tutorial will guide you through the process of designing, building, simulating, and learning with intelligent systems using the **Constrained Object Hierarchies (COH)** theoretical framework and the **GISMOL** Python toolkit. By the end, you’ll be able to create your own hierarchical, constraint‑driven models and run experiments on them.
 
@@ -77,18 +86,12 @@ This tutorial will teach you how to use GISMOL to model, simulate, and train int
 
 ## 2. Installation and First Steps
 
-Install GISMOL using pip:
+For the latest development version, clone the repository and install with pip:
 
 ```bash
-pip install gismol
-```
-
-For the latest development version, clone the repository and install in editable mode:
-
-```bash
-git clone https://github.com/harriswang/gismol.git
-cd gismol
-pip install -e .
+git clone https://github.com/hongxueharriswang/gismol_toolkit.git
+cd gismol_toolkit
+pip install .
 ```
 
 Verify the installation by importing the package:
@@ -1024,4 +1027,4 @@ We hope this tutorial has empowered you to model and understand intelligent syst
 
 ---
 
-*For questions, issues, or contributions, visit [https://github.com/hongxueharriswang/gismol_toolkit](https://github.com/harriswatau/gismol_toolkit).*
+*For questions, issues, or contributions, visit [https://github.com/hongxueharriswang/gismol_toolkit](https://github.com/hongxueharriswang/gismol_toolkit).*
